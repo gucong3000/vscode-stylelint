@@ -44,8 +44,7 @@
 		"onLanguage:typescript",
 		"onLanguage:typescriptreact",
 		"onLanguage:vue",
-		"onLanguage:vue-html",
-		"onLanguage:xml"
+		"onLanguage:vue-html"
 	],
 	"main": "index.js",
 	"contributes": {
